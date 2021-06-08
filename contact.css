@@ -54,13 +54,13 @@ padding-top: 50px;
 input{
 width:250px;
 height: 40px;
-
+color:black;
 background-color: rgb(240, 236, 227);
 }
 textarea{
 padding-left:100px;
+color:black
 
-background-color:  rgb(240, 236, 227);
 }
 button{
 padding:10px;
