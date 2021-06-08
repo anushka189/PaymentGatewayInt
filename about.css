@@ -104,7 +104,7 @@ h1 {
 .container{
   padding-top: 100px;
   line-height: 30px;
-  letter-spacing: 5px;
+  letter-spacing:10px;
   padding-left:40px;
 
 }
@@ -115,5 +115,5 @@ h1 {
   float:right;
 }
 #img01{
-  padding-top: 300px;
+  padding-top: 500px;
 }
