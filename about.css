@@ -104,9 +104,9 @@ h1 {
 .container{
   padding-top: 100px;
   line-height: 30px;
-  letter-spacing:10px;
+ 
   padding-left:40px;
-
+  font-size: larger;
 }
 #images,#img01,#imgs{
   border-radius: 50%;
@@ -115,5 +115,7 @@ h1 {
   float:right;
 }
 #img01{
-  padding-top: 250px;
-}
+  
+    padding:50px;
+     border-radius: 50%;
+   }
